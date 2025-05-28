@@ -22,7 +22,10 @@ This project demonstrates a complete machine learning pipeline in a **Jupyter No
 - pandas & numpy
 
 ---
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/70a8f439-a487-4d21-bb87-cbfdc7b3a9a5" />
 
+
+<img width="155" alt="image" src="https://github.com/user-attachments/assets/86fa033f-a01b-4864-8a31-d8cbb76943ea" />
 
 
 ## 📦 Setup Instructions
