@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6811adaa18864e08a4e544601c8d286f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6811adaa18864e08a4e544601c8d286f
+run_name: classy-snake-955
+run_uuid: 6811adaa18864e08a4e544601c8d286f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748411323176
+status: 1
+tags: []
+user_id: arunshukla
